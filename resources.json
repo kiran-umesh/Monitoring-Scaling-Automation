@@ -1,0 +1,10 @@
+{
+    "bucket_name": "kiranbatch7",
+    "security_group_id": "sg-057f0e6c8849c7ff8",
+    "instance_id": "i-044657bd9eb492ad1",
+    "load_balancer_arn": "arn:aws:elasticloadbalancing:us-west-2:975050024946:loadbalancer/app/kiranm-lb1/6126e668a22926e9",
+    "target_group_arn": "arn:aws:elasticloadbalancing:us-west-2:975050024946:targetgroup/kiranm-tg1/30fe81963b2734a9",
+    "launch_template_id": "lt-0e664d54de8dc48f4",
+    "auto_scaling_group_name": "kiranm_batch7",
+    "sns_topic": "arn:aws:sns:us-west-2:975050024946:kiranm-sns"
+}
